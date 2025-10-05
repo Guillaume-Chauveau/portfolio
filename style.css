@@ -107,7 +107,9 @@ footer { text-align:center; padding:1.25rem; color:#fff; background:#0f172a; mar
 
   .section { padding:1rem; margin:1.5rem; }
 
-  /* Style global */
+  
+}
+/* Style global */
 * {
   margin: 0;
   padding: 0;
@@ -308,6 +310,4 @@ footer {
   .hero h1 {
     font-size: 2rem;
   }
-}
-
 }
