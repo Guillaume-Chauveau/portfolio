@@ -17,11 +17,6 @@
       <a href="projet4.html" class="btn">Voir plus</a>
     </div>
     <div class="project-card">
-      <h3>API Python</h3>
-      <p>API REST avec Flask pour gérer des données.</p>
-      <a href="projet5.html" class="btn">Voir plus</a>
-    </div>
-    <div class="project-card">
       <h3>Mini-jeu en C++</h3>
       <p>Jeu console avec algorithmes simples.</p>
       <a href="projet6.html" class="btn">Voir plus</a>
