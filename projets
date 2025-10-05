@@ -1,0 +1,30 @@
+<section class="section fade-in">
+  <h2>Mes projets</h2>
+  <div class="projects-grid">
+    <div class="project-card">
+      <h3>Jeu éducatif en mathématiques</h3>
+      <p>Godot - énigmes interactives.</p>
+      <a href="projet2.html" class="btn">Voir plus</a>
+    </div>
+    <div class="project-card">
+      <h3>Site web collaboratif</h3>
+      <p>PHP/MySQL - projet d’équipe.</p>
+      <a href="projet3.html" class="btn">Voir plus</a>
+    </div>
+    <div class="project-card">
+      <h3>Application Java</h3>
+      <p>Application de gestion développée en Java.</p>
+      <a href="projet4.html" class="btn">Voir plus</a>
+    </div>
+    <div class="project-card">
+      <h3>API Python</h3>
+      <p>API REST avec Flask pour gérer des données.</p>
+      <a href="projet5.html" class="btn">Voir plus</a>
+    </div>
+    <div class="project-card">
+      <h3>Mini-jeu en C++</h3>
+      <p>Jeu console avec algorithmes simples.</p>
+      <a href="projet6.html" class="btn">Voir plus</a>
+    </div>
+  </div>
+</section>
